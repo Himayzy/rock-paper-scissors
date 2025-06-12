@@ -8,7 +8,7 @@ let computerchoice
 let result
 let playerscore=0;
 let computerscore=0;
-
+// 
 
 function playgame(playerchoice){
    computerchoice = choices[Math.trunc(Math.random()*3)]
